@@ -7,13 +7,10 @@ add p4merge branch
 3번째
 4번째
 5번째
-aaa qqqq ddd 
-<<<<<<< HEAD
-...
+aaa qqqq ddd sta
+...git 
 ...
 233
-=======
->>>>>>> test
 
 4444
 ```
